@@ -138,4 +138,4 @@ The system is built using **FastAPI** and **Node.js**, ensuring high-performance
 ## Contact Information
 - **📌 Prepared by**: ASTRA TECHNOLOGY
 - **📌 WhatsApp**: [Chat via WhatsApp](+96898975295)
-- **📌 Email**: [yosef.1419@gmail.com](mailto:astrabusiness333@gmail.com)
+- **📌 Email**: [astrabusiness333@gmail.com](mailto:astrabusiness333@gmail.com)
