@@ -136,6 +136,6 @@ The system is built using **FastAPI** and **Node.js**, ensuring high-performance
 - 🔗 **Cross-Platform AI** – A unified assistant for all messengers.
 
 ## Contact Information
-- **📌 Prepared by**: Yousef Mirzadeh
+- **📌 Prepared by**: ASTRA TECHNOLOGY
 - **📌 WhatsApp**: [Chat via WhatsApp](+96898975295)
 - **📌 Email**: [yosef.1419@gmail.com](mailto:astrabusiness333@gmail.com)
