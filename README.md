@@ -105,8 +105,8 @@ The system is built using **FastAPI** and **Node.js**, ensuring high-performance
 5. **Go Live 🚀**: Start engaging customers instantly!
 
 ## Sample Request & Response
-- **🎥 Demo Video**: [Watch the Demo](https://github.com/ysfmrz/WhatsApp-Business-Intelligent-Assistant/blob/main/Example%20Video-URL.md)
-- **📂 Sample CSV File**: [Download CSV](https://github.com/ysfmrz/WhatsApp-Business-Intelligent-Assistant/blob/main/sample-data-cars.csv)
+- **🎥 Demo Video**: [Watch the Demo](https://github.com/Astra1419/WhatsApp-Business-Intelligent-Assistant/blob/main/Example%20Video-URL.md)
+- **📂 Sample CSV File**: [Download CSV](https://github.com/Astra1419/WhatsApp-Business-Intelligent-Assistant/blob/main/sample-data-cars.csv)
 - **💬 Real-World Example**:
   - **Customer**: "What’s on the menu today?"
   - **Assistant (Text Mode)**: "Here’s our fresh lineup: [Image of menu]. Would you like to order the Spicy Chicken Wrap?"
